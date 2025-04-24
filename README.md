@@ -12,7 +12,6 @@ This project utilizes Natural Language Processing (NLP) techniques to analyze tr
 
 The primary script for executing this entire pipeline is `ai_thematic_analysis.py`.
 
-*(Note: A Jupyter Notebook, `TCC_Alice.ipynb`, is present in the repository, reflecting the development process, but the core execution logic resides in the `ai_thematic_analysis.py` script).*
 
 ---
 

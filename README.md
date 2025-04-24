@@ -1,7 +1,6 @@
-# README – ai_thematic_analysis
-A Thematic Analysis powered by AI tools
-
+# README 
 # AI-Powered Thematic Analysis of Music Therapy Sessions
+A Thematic Analysis powered by AI tools
 
 ## Project Overview
 

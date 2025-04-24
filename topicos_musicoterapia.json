@@ -1,0 +1,847 @@
+[
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'superação, 'empoderamento', 'temas', 'abordando', 'negras', 'mulheres', 'resistência', 'luta', 'refletem'].",
+        "output": "Criação Musical como Expressão Coletiva. Descrição: A composição de músicas a partir das experiências compartilhadas representa uma forma de expressão coletiva que valoriza as histórias individuais e fortalece a identidade do grupo. As canções refletem a luta e a resistência das mulheres negras, abordando temas como identidade, empoderamento e superação."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['pressão', 'sociais', 'injustiças', 'encontrar', 'militância', 'contra', 'pode', 'desgastante', 'equilíbrio', 'grupo'].",
+        "output": "Experiência de Discriminação e Militância. Descrição: O grupo relata situações de discriminação racial e o impacto emocional que isso causa. Ele expressa sua percepção sobre o desgaste emocional associado à militância, destacando que a luta pela saúde mental é uma prioridade e que a militância pode ser pesada."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Saúde Mental e Autocuidado. Descrição: A importância do autocuidado e do equilíbrio entre a luta social e a saúde mental é enfatizada. O grupo reflete sobre o desgaste emocional associado à militância e a necessidade de priorizar o cuidado pessoal para a resistência e continuidade do ativismo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['importância', 'empoderamento', 'mulheres', 'negras', 'luta', 'resistência', 'enfatizam', 'participantes', 'vozes', 'composta'].",
+        "output": "Diversidade de Experiências e Identidade. Descrição: A discussão sobre a diversidade de vozes e experiências dentro do grupo é essencial para enriquecer a vivência das mulheres negras. A luta por representatividade e a busca por uma identidade coletiva que valorize as conquistas em contextos de opressão racial e de gênero são abordadas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mútuo', 'fundamental', 'negras', 'coletividade', 'mulheres', 'enfrentar', 'compreensão', 'enfatizada', 'emocional', 'pode'].",
+        "output": "Apoio Coletivo e Comunidade. Descrição: A importância do apoio mútuo entre mulheres negras é ressaltada, com a musicoterapia comunitária sendo vista como um espaço de partilha de dores e experiências. A valorização do apoio comunitário e a criação de redes de suporte são centrais para enfrentar desafios e promover a cura coletiva."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['espaço', 'musicoterapia', 'aprendizado', 'enfatiza', 'comunitária', 'experiências', 'comunidade', 'troca', 'podem', 'participantes'].",
+        "output": "Musicoterapia e Expressão Emocional. Descrição: A musicoterapia é apresentada como uma ferramenta valiosa para a expressão emocional e a construção de um espaço seguro para compartilhar experiências. O ato de falar e desabafar é fundamental para o processo terapêutico, e a música se torna um meio de resistência e transformação, permitindo a conexão com emoções e histórias pessoais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância da Voz e da Expressão. Descrição: A necessidade de se fazer ouvir e de expressar suas emoções e opiniões é um aspecto crucial na vivência das mulheres negras. A música e a arte são apresentadas como ferramentas essenciais para a expressão e a cura, permitindo a conexão com emoções e a ressignificação de experiências dolorosas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Solidão e Conexão. Descrição: A solidão vivida por mulheres negras é um tema recorrente, mas também é enfatizada a importância da conexão e do apoio mútuo. A música e a arteterapia são vistas como formas de criar laços e fortalecer a coletividade, essencial para enfrentar as adversidades sociais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Autocuidado e Saúde Mental. Descrição: A discussão sobre a importância do autocuidado e da saúde mental emerge como uma necessidade vital para as participantes, que reconhecem a pressão de serem vistas como fortes e resilientes, mas que também buscam momentos de cuidado e reflexão pessoal. A busca por equilíbrio entre a luta social e o autocuidado é uma preocupação expressa."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sentimentos', 'refletem', 'estresse', 'importância', 'emocional', 'buscar', 'emoções', 'positivo', 'reconhecer', 'sobre'].",
+        "output": "Desafios da Identidade e Experiências Raciais. Descrição: As participantes refletem sobre os desafios enfrentados por mulheres negras em busca de reconhecimento e valorização em um sistema que frequentemente marginaliza suas vozes. A interseccionalidade entre raça e gênero é abordada, destacando como essas experiências se entrelaçam e impactam a autoimagem e a autoafirmação."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Resistência e Empoderamento. Descrição: A luta contínua das mulheres negras contra injustiças sociais é central, com a resistência sendo uma forma de empoderamento. As participantes enfatizam a importância de se posicionar e lutar por seus direitos, mesmo diante de um sistema que tenta silenciar suas vozes."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'tona', 'solidão', 'poderosa', 'elemento', 'traz', 'contexto', 'enfrentados', 'memórias', 'apresentada'].",
+        "output": "Experiência com Música e Saúde Mental. Descrição: A música é destacada como uma poderosa ferramenta de expressão e resistência, permitindo que as mulheres compartilhem suas histórias e emoções. A musicoterapia é vista como essencial para a expressão emocional e a cura, criando um espaço seguro para a troca de vivências e reflexões sobre a saúde mental."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sobre', 'sociais', 'emoções', 'dificuldade', 'mental', 'militância', 'expressa', 'bem', 'ambiente', 'posicionar'].",
+        "output": "Identidade e Autoafirmação. Descrição: A busca por uma identidade própria e a necessidade de autoafirmação são temas centrais nas falas das participantes, refletindo a luta constante das mulheres negras para se reconhecerem e se valorizarem em uma sociedade que frequentemente as marginaliza. A música é apresentada como uma ferramenta poderosa para expressar e resgatar essa identidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['necessidade', 'autocuidado', 'social', 'luta', 'mental', 'saúde', 'importância', 'priorizar', 'perspectiva', 'reconhecem'].",
+        "output": "Coletividade e Apoio Mútuo. Descrição: As participantes destacam a importância do apoio mútuo entre mulheres negras, enfatizando que a coletividade é fundamental para enfrentar as adversidades, promover a cura emocional e fortalecer a identidade. A musicoterapia é vista como um espaço de acolhimento e troca de experiências, essencial para o bem-estar emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância do apoio mútuo. Descrição: O grupo fala sobre a relevância de estar em grupos de apoio, onde as experiências e as lutas são compartilhadas. Ela menciona a necessidade de apoiar colegas em situações de discriminação, evidenciando a importância da coletividade entre mulheres negras para enfrentar as adversidades."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['promover', 'além', 'negras', 'música', 'mulheres', 'sobre', 'resistência', 'empoderamento', 'emoções', 'permitindo'].",
+        "output": "Relação entre Música e Identidade. Descrição: As canções criadas refletem a luta e a resistência das mulheres negras, abordando temas como identidade, empoderamento e superação. A música se torna um meio de afirmação e celebração das histórias e trajetórias das participantes."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['emoções', 'necessidade', 'expressar', 'apenas', 'crucial', 'ouvir', 'expressão', 'apresentadas', 'arte', 'dolorosas'].",
+        "output": "Criação de Música como Expressão Coletiva. Descrição: A composição de músicas a partir das experiências e palavras importantes das sessões representa uma forma de expressão coletiva e de resgate das vivências compartilhadas. Essa prática não apenas valoriza as histórias individuais, mas também fortalece a identidade do grupo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Desgaste emocional e militância. Descrição: O grupo expressa sua percepção sobre o desgaste emocional associado à militância, destacando que não se considera uma pessoa militante e que a luta pela saúde mental é uma prioridade. Ela menciona que a militância pode ser pesada e que muitas vezes as pessoas que se dedicam a essa causa enfrentam um alto nível de estresse."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['experiências', 'solidão', 'mulheres', 'forma', 'sobre', 'promovendo', 'enfrentar', 'enfatizada', 'apoio', 'falas'].",
+        "output": "Experiência de discriminação racial. Descrição: O grupo relata situações de discriminação racial que vivencia, tanto em ambientes profissionais quanto em grupos sociais. Ela menciona a dificuldade de lidar com comentários racistas e a necessidade de se posicionar contra essas injustiças, refletindo sobre o impacto emocional que isso causa."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Apoio e Solidariedade em Comunidade. Descrição: A fala dO grupo sugere uma valorização do apoio comunitário, onde a ajuda mútua é vista como uma forma de enfrentar desafios. Essa ideia de coletividade é central para a experiência de mulheres negras, que muitas vezes buscam criar redes de suporte em meio a adversidades sociais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Diversidade de Experiências e Perspectivas. Descrição: O grupo menciona a diversidade de vozes e experiências dentro do grupo, ressaltando que cada mulher traz uma perspectiva única. Essa pluralidade é essencial para enriquecer a discussão sobre as vivências de mulheres negras e suas intersecções com questões de raça, gênero e saúde mental."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['espaço', 'esperança', 'mulheres', 'negras', 'emocional', 'descrição', 'reconhecimento', 'grupo', 'dificuldades', 'apesar'].",
+        "output": "Importância da Música e da Arte. Descrição: A música e a arte são mencionadas como ferramentas essenciais para a expressão e a cura, refletindo a relevância dessas práticas na vivência das mulheres negras. A arte se torna um meio de resistência e transformação, permitindo a conexão com emoções e histórias pessoais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['conexão', 'necessidade', 'sugere', 'menciona', 'relação', 'indicando', 'contexto', 'racismo', 'musicoterapia', 'raciais'].",
+        "output": "Experiências de Apoio e Conexão. Descrição: O grupo expressa um desejo de ouvir e se conectar com as experiências de outras pessoas, indicando que valoriza a troca de vivências. Essa abertura para o diálogo pode ser vista como uma forma de empoderamento e construção de comunidade, mesmo que em um contexto limitado."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['necessidade', 'mulheres', 'emocional', 'preocupação', 'ajuda', 'barreiras', 'dificuldade', 'refletindo', 'mental', 'busca'].",
+        "output": "Desigualdade nas comissões e espaços de poder. Descrição: O grupo critica a estrutura das comissões e espaços de poder, onde a presença de pessoas negras é muitas vezes desvalorizada. Ela aponta que, mesmo em comissões voltadas para a igualdade racial, as vozes negras são frequentemente silenciadas, refletindo a luta por representatividade e reconhecimento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Cuidado Pessoal e Limites. Descrição: O grupo enfatiza a importância de priorizar o autocuidado em detrimento de compromissos de trabalho voluntário, refletindo uma necessidade de estabelecer limites para preservar sua saúde mental e bem-estar. Essa perspectiva destaca a luta interna entre a expectativa social de ajudar os outros e a necessidade de cuidar de si mesma."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['emoções', 'vulnerabilidade', 'participantes', 'criatividade', 'espaço', 'experiências', 'seguro', 'improvisação', 'facilitando', 'musical'].",
+        "output": "Saúde Mental e Acesso a Apoio. Descrição: A preocupação com a saúde mental das mulheres negras e a dificuldade de acesso a serviços de apoio emocional são destacados, refletindo a necessidade de investigar as barreiras que impedem a busca por ajuda."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Experiência Coletiva e Aprendizado Comunitário. Descrição: O grupo enfatiza que a musicoterapia comunitária oferece um espaço para o aprendizado coletivo, onde as participantes podem compartilhar suas histórias e experiências. Essa troca é vista como fundamental para a construção de uma consciência coletiva e para o fortalecimento da comunidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância da Musicoterapia e Espaços de Acolhimento. Descrição: A musicoterapia é apresentada como uma ferramenta essencial para promover a expressão emocional e a cura entre mulheres negras. O espaço de acolhimento proporcionado pela musicoterapia permite que as participantes compartilhem suas experiências e dores, criando uma rede de apoio e compreensão mútua."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Desigualdade e Luta Pessoal. Descrição: O grupo menciona sua luta por uma vida melhor, expressando frustração com a falta de recursos financeiros e a dificuldade de alcançar seus objetivos, como a compra de uma casa. Essa luta é contextualizada dentro de uma realidade mais ampla de desigualdade, onde as dificuldades pessoais são exacerbadas por fatores sociais e econômicos."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Identidade e Experiências Raciais. Descrição: A discussão sobre a experiência de ser mulher negra em contraste com a vivência de uma mulher loira ilustra as complexidades das identidades raciais no Brasil. O grupo menciona a dificuldade de ser reconhecida e valorizada em um contexto que frequentemente marginaliza as vozes negras, refletindo sobre as desigualdades raciais e a necessidade de reconhecimento das lutas específicas enfrentadas por mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'destacam', 'pessoal', 'força', 'opressões', 'libertação', 'sociais', 'resgatar', 'emoções', 'contra'].",
+        "output": "Coletividade e Compartilhamento de Experiências. Descrição: A importância de criar espaços coletivos onde as mulheres possam compartilhar suas dores e experiências é enfatizada, sugerindo que a troca de vivências pode ser um caminho para a cura e o fortalecimento comunitário."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['forma', 'maneira', 'promover', 'participantes', 'expressão', 'emocional', 'além', 'central', 'elemento', 'servindo'].",
+        "output": "Importância da Musicoterapia. Descrição: A musicoterapia é vista como uma ferramenta essencial para promover a expressão emocional e a cura, permitindo que as participantes compartilhem suas experiências e se conectem com suas emoções de maneira segura."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Relação entre Saúde Mental e Identidade. Descrição: A narrativa dO grupo revela como sua saúde mental está interligada à sua identidade como mulher negra, enfrentando não apenas questões de gênero, mas também de raça. Essa intersecção traz à tona a complexidade de suas experiências e a necessidade de um olhar sensível e inclusivo na abordagem terapêutica."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['ideia', 'onde', 'sociedade', 'reflete', 'ouvida', 'fala', 'expressa', 'muitas', 'busca', 'vezes'].",
+        "output": "Necessidade de Espaços de Escuta. Descrição: O grupo enfatiza a importância de ter um espaço seguro para expressar suas emoções e reclamações. A falta de um ambiente acolhedor e compreensivo é um ponto crítico em sua experiência, ressaltando a necessidade de criar espaços onde as vozes de mulheres negras possam ser ouvidas e valorizadas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['grupo', 'importância', 'liberdade', 'reflete', 'enfatiza', 'sobre', 'espaço', 'vida', 'permitindo', 'autoaceitação'].",
+        "output": "A Música como Ferramenta de Superação. Descrição: A composição da música 'Estrela da Sorte' surge como uma forma de expressão e resiliência diante das dificuldades enfrentadas. A música é apresentada como um recurso emocional que auxilia O grupo a lidar com momentos de desânimo e a reestabelecer sua fé, destacando a importância da arte na saúde mental e no processo de cura."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'promover', 'emoções', 'musicoterapia', 'saúde', 'participantes', 'meio', 'permitindo', 'central', 'mencionada'].",
+        "output": "Força nas Experiências Compartilhadas. Descrição: As vivências individuais e coletivas são fundamentais para a construção de uma identidade forte. Compartilhar histórias e experiências ajuda a criar um senso de comunidade e apoio, essencial para enfrentar os desafios impostos pela sociedade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['expressão', 'música', 'sobre', 'vivências', 'mulheres', 'compartilhem', 'poderosa', 'ferramenta', 'emocional', 'troca'].",
+        "output": "Resistência e Autoafirmação. Descrição: A necessidade de se impor e resistir às opressões diárias é um tema central. As mulheres negras sentem a pressão de se afirmar em ambientes que muitas vezes não reconhecem sua força e capacidade, refletindo a luta contra o racismo e o machismo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Resiliência e Superação. Descrição: A narrativa expressa a resiliência diante das adversidades, simbolizada pela ideia de ter 'chorado mares e rios' mas não se deixar afogar. Essa resiliência é um tema central na vivência das mulheres negras, que enfrentam desafios significativos, mas continuam a lutar e a se reinventar."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['autocuidado', 'sempre', 'militância', 'luta', 'saúde', 'encontrar', 'sugerindo', 'reflete', 'menciona', 'contra'].",
+        "output": "Potência da Música. Descrição: A música é percebida como uma força transformadora e poderosa, capaz de resgatar emoções e promover a libertação pessoal. As grupos destacam a importância da música na expressão de suas vivências e na luta contra as opressões sociais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'valoriza', 'expressão', 'luta', 'temas', 'experiências', 'superação', 'mulheres', 'canções', 'coletiva'].",
+        "output": "A Importância da Voz e da Expressão. Descrição: A frase 'se você tem boca, aprende a usar' destaca a necessidade de se fazer ouvir e de expressar suas emoções e opiniões. Essa busca por voz e reconhecimento é um aspecto crucial na vivência das mulheres negras, que muitas vezes se sentem silenciadas em suas comunidades."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['participantes', 'experiências', 'música', 'expressão', 'espaço', 'mulher', 'feminina', 'refletir', 'meio', 'criando'].",
+        "output": "Solidão e Coletividade. Descrição: A solidão é um tema recorrente nas falas, onde as mulheres expressam a dificuldade de se abrir e compartilhar suas experiências. No entanto, também é enfatizada a importância da coletividade e do apoio mútuo entre mulheres negras como forma de enfrentar a solidão e as adversidades."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['necessidade', 'ressaltando', 'ter', 'emoções', 'grupo', 'experiência', 'falta', 'enfatiza', 'ouvidas', 'criar'].",
+        "output": "Interseccionalidade de Gênero e Raça. Descrição: O trecho sugere uma reflexão sobre as intersecções entre gênero e raça, destacando como as experiências de opressão são multifacetadas. A menção a diferentes figuras, como o 'homo afetivo', aponta para a necessidade de reconhecer e valorizar as diversas identidades que compõem a luta por direitos e reconhecimento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Identidade e Feminilidade. Descrição: A discussão sobre a figura feminina e a necessidade de resgatar a força do feminino, incluindo a representação de mulheres negras como feras que não aceitam mais a opressão, destaca a luta pela autoafirmação e reconhecimento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Empoderamento e Autonomia. Descrição: A letra da música 'Dona de Mim' de IZA reflete a busca por empoderamento e autonomia, enfatizando a importância de se reconhecer o próprio valor e a capacidade de se afirmar diante das adversidades. Essa temática é central para as mulheres negras, que frequentemente enfrentam desafios relacionados à identidade e à autoafirmação."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Desgaste da militância. Descrição: O grupo expressa um cansaço em relação à militância constante e à pressão para estar sempre lutando contra injustiças sociais. Ela sugere que é necessário encontrar um equilíbrio entre a luta social e o autocuidado, reconhecendo que a militância pode ser desgastante."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['enfatiza', 'sociais', 'dificuldade', 'fazer', 'valorização', 'ainda', 'fala', 'lugar', 'expressar', 'ambientes'].",
+        "output": "Solidão e acolhimento. Descrição: O grupo menciona a solidão e a necessidade de acolhimento, tanto em relação a si mesma quanto às outras mulheres negras. Ela fala sobre a importância de criar espaços seguros onde as experiências possam ser compartilhadas e valorizadas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['escuta', 'grupo', 'vista', 'valorizadas', 'negras', 'mútua', 'promover', 'espaços', 'onde', 'mulheres'].",
+        "output": "A importância da escuta e acolhimento. Descrição: O grupo enfatiza a necessidade de criar espaços de escuta e acolhimento para as experiências de mulheres negras, onde suas vozes possam ser valorizadas e respeitadas. Essa escuta é vista como essencial para promover a cura e a compreensão mútua."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'mulheres', 'negras', 'resiliência', 'saúde', 'mencionada', 'apesar', 'revela', 'discussão', 'pessoas'].",
+        "output": "Interseccionalidade das experiências. Descrição: O grupo discute como as experiências de racismo e opressão de gênero se entrelaçam, ressaltando que as mulheres negras enfrentam múltiplas camadas de discriminação. Ela enfatiza que a luta não se limita apenas à questão racial, mas abrange diversas dimensões da vida."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sentimentos', 'musicoterapia', 'participantes', 'autoconhecimento', 'refletem', 'contribui', 'compreensão', 'mental', 'reconhecer', 'sobre'].",
+        "output": "A luta pela identidade. Descrição: A discussão sobre a luta pela identidade é central, com O grupo refletindo sobre como as experiências de racismo e opressão de gênero afetam a autoimagem e a autoafirmação das mulheres negras. Ela menciona a necessidade de ressignificar traumas e experiências passadas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['negras', 'espaços', 'pessoas', 'aponta', 'racial', 'reconhecimento', 'refletindo', 'luta', 'vezes', 'representatividade'].",
+        "output": "A importância da arte como forma de cura. Descrição: A arte, especialmente a música, é apresentada como uma forma de cura e ressignificação das experiências dolorosas. O grupo menciona que a música pode ajudar a transformar a dor em algo positivo e que é essencial para o bem-estar emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Solidão e Conexão entre Mulheres Negras. Descrição: A entrevista reflete sobre a solidão vivida por mulheres negras e a importância da conexão e do apoio mútuo. A música e a arteterapia são vistas como formas de criar laços e fortalecer a coletividade, essencial para enfrentar as adversidades sociais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['emoções', 'sobre', 'grupo', 'normas', 'contra', 'busca', 'luta', 'importância', 'exige', 'apresentada'].",
+        "output": "Experiências de Racismo e Auto-Odío. Descrição: A narrativa traz à tona experiências pessoais de racismo e a internalização do ódio, como exemplificado pela história do nome 'Simão'. A participante discute como essas experiências impactam a autoestima e a identidade, ressaltando a necessidade de ressignificação e empoderamento diante do racismo estrutural."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'cultura', 'sobre', 'importância', 'grupo', 'complexidades', 'expressão', 'experiências', 'menciona', 'mensagem'].",
+        "output": "Relação com a Música como Ferramenta de Cura. Descrição: A música é apresentada como uma forma de expressão que provoca reflexões profundas e ajuda a lidar com angústias e incômodos. O grupo menciona como a melodia e a letra a impactam emocionalmente, sugerindo que a música pode ser um meio de resgatar memórias e promover a cura emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['negras', 'mulheres', 'sobre', 'raciais', 'mulher', 'grupo', 'onde', 'lutas', 'necessidade', 'menciona'].",
+        "output": "Empoderamento e Autoafirmação. Descrição: O grupo destaca a importância de viver as próprias escolhas e se reconhecer como indivíduo, enfatizando que a música serve como um hino de empoderamento. A reflexão sobre a letra da canção revela um desejo de libertação das definições impostas pela sociedade, especialmente no que diz respeito ao papel das mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Experiência de Luta e Resiliência. Descrição: O grupo menciona a luta constante enfrentada por mulheres negras na busca por reconhecimento e sucesso, refletindo uma experiência de resiliência diante das adversidades impostas por uma sociedade que frequentemente desvaloriza suas contribuições."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'raça', 'necessidade', 'negra', 'olhar', 'revela', 'mulher', 'complexidade', 'experiências', 'terapêutica'].",
+        "output": "Apoio e Comunidade. Descrição: A importância do apoio mútuo entre mulheres negras é enfatizada, destacando como a coletividade pode ser um espaço de acolhimento e compreensão, fundamental para enfrentar as adversidades e promover a cura emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Empoderamento Através da Música. Descrição: A música é apresentada como uma ferramenta de empoderamento e resistência, permitindo que as mulheres negras expressem suas emoções e histórias, além de promover a reflexão sobre suas vivências e desafios."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['fortalece', 'cura', 'rede', 'solidariedade', 'troca', 'laços', 'participantes', 'apoio', 'musicoterapia', 'fundamentais'].",
+        "output": "Desigualdade de Gênero e Raça. Descrição: A fala dO grupo evidencia a intersecção entre raça e gênero, onde a mulher negra enfrenta uma dupla opressão. Ela menciona que a mulher negra não pode se destacar devido à cor da pele e à pressão social, ressaltando como essas desigualdades se manifestam de maneira única e complexa em suas vidas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Esperança e Resiliência. Descrição: Apesar das dificuldades enfrentadas, O grupo expressa uma esperança persistente. Essa esperança é um elemento central na narrativa das mulheres negras, que buscam não apenas sobreviver, mas também se afirmar e lutar por um espaço de reconhecimento e valorização na sociedade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Identidade e Representatividade. Descrição: O grupo discute a luta pela identidade e a dificuldade de se destacar como mulher negra em uma sociedade que marginaliza suas vozes. Ela menciona a percepção de que a mulher negra não recebe o mesmo reconhecimento que outras identidades, refletindo sobre a opressão racial e de gênero que limita sua visibilidade e valorização."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Resistência e Luta Coletiva. Descrição: O grupo menciona a luta contínua das mulheres negras e a necessidade de se posicionar, ressaltando a importância da coletividade na resistência contra as injustiças sociais e na busca por um espaço de voz e reconhecimento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['reflete', 'mulheres', 'conexão', 'arteterapia', 'solidão', 'laços', 'apoio', 'criar', 'sociais', 'formas'].",
+        "output": "Equilíbrio entre Luta e Autocuidado. Descrição: O grupo menciona a necessidade de encontrar um equilíbrio entre a luta contra injustiças sociais e o autocuidado. Ela reflete sobre a pressão que sente para estar sempre engajada na militância, mas também reconhece a importância de cuidar de si mesma e de suas emoções, sugerindo que o autocuidado é essencial para a saúde mental e a resistência."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['desgaste', 'cuidado', 'luta', 'emocional', 'equilíbrio', 'autocuidado', 'reflete', 'pessoal', 'enfatizada', 'mental'].",
+        "output": "Cansaço e Resiliência. Descrição: O grupo expressa um profundo cansaço emocional e físico, evidenciando a luta diária para equilibrar responsabilidades profissionais e pessoais. A resiliência é mencionada como uma necessidade, mas também como um fardo, indicando que a constante exigência de se manter forte pode ser desgastante."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sentem', 'afirmar', 'tema', 'refletindo', 'contra', 'ambientes', 'opressões', 'reconhecem', 'muitas', 'vezes'].",
+        "output": "Desafios da Autenticidade. Descrição: O grupo fala sobre a luta para ser autêntica em um mundo que frequentemente exige que as mulheres negras escondam suas verdadeiras emoções e identidades. Ela enfatiza a importância de se permitir sentir e expressar suas emoções, desafiando normas sociais que tentam silenciar suas vozes. Essa busca pela autenticidade é apresentada como um ato de resistência contra o racismo e o preconceito."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Resistência e Saúde Mental. Descrição: O grupo aborda a tensão entre a luta contra injustiças sociais e a necessidade de cuidar da saúde mental. Ela reflete sobre como a pressão para ser militante pode ser desgastante e como é essencial encontrar um equilíbrio entre a resistência e o autocuidado, permitindo-se momentos de vulnerabilidade e reflexão."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sessões', 'vidas', 'participantes', 'construção', 'apoio', 'experiência', 'ambiente', 'compartilham', 'momentos', 'situações'].",
+        "output": "A Importância do Apoio Coletivo. Descrição: O grupo ressalta a relevância do apoio mútuo entre mulheres negras, destacando que compartilhar experiências e emoções em um ambiente acolhedor é fundamental para o bem-estar emocional. A coletividade é vista como uma forma de enfrentar as adversidades e promover a cura, reforçando a ideia de que a musicoterapia comunitária é um espaço de troca e aprendizado."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "A Música como Ferramenta de Expressão. Descrição: A música é destacada como um meio poderoso de expressão e reflexão, permitindo que as participantes se conectem com suas emoções e experiências. O grupo menciona que a musicoterapia não se limita apenas à música, mas também envolve conversas e trocas significativas, criando um espaço seguro para a expressão de sentimentos e vivências."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['luta', 'militância', 'emocional', 'impacto', 'saúde', 'sobre', 'situações', 'mental', 'desgaste', 'causa'].",
+        "output": "Desafios da Identidade e Reconhecimento. Descrição: O grupo reflete sobre os desafios enfrentados por mulheres negras em busca de reconhecimento e valorização em um sistema que frequentemente marginaliza suas vozes. Ela menciona a pressão social e as expectativas que recaem sobre elas, destacando a luta pela autoafirmação e a necessidade de ser ouvida."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['depressão', 'importância', 'grupo', 'experiências', 'mulheres', 'tanto', 'solidão', 'sobre', 'espaços', 'si'].",
+        "output": "Empoderamento e Coletividade. Descrição: O grupo destaca a importância do empoderamento coletivo, afirmando que juntas as mulheres negras podem ser ouvidas e fazer valer seus direitos. A ideia de que o grito coletivo é mais forte do que a voz individual é central para a construção de uma identidade compartilhada."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['experiências', 'empoderamento', 'participantes', 'processo', 'parte', 'reconhecem', 'invulnerável', 'discussão', 'dolorosas', 'contexto'].",
+        "output": "Injustiça e Opressão. Descrição: A fala dO grupo revela uma percepção aguda das injustiças que permeiam sua realidade, especialmente em espaços que deveriam ser de justiça. Ela menciona a presença de questões feministas e institucionais que ainda marginalizam suas experiências, indicando uma luta contínua contra a opressão e a necessidade de visibilidade para as vozes das mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['experiências', 'sobre', 'mulheres', 'opressão', 'negras', 'identidade', 'luta', 'gênero', 'necessidade', 'discussão'].",
+        "output": "Lugar de Fala. Descrição: O grupo enfatiza a importância do 'lugar de fala' como um espaço legítimo para expressar suas experiências e opiniões, destacando a necessidade de reconhecimento e valorização das vozes de mulheres negras em contextos sociais e políticos. Ela questiona a opressão e a repressão que ainda persistem, mesmo em uma democracia, refletindo sobre a dificuldade de se fazer ouvir em ambientes que não acolhem suas vivências."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'apenas', 'ouvir', 'ressignificar', 'grupo', 'músicas', 'mãe', 'esposa', 'buscando', 'sobre'].",
+        "output": "Poder da Música como Ferramenta de Expressão. Descrição: A música é destacada como uma poderosa ferramenta de expressão e resistência, permitindo que as mulheres compartilhem suas histórias, emoções e lutas. A canção 'O Que Se Cala' é mencionada como um exemplo de como a música pode dar voz a sentimentos reprimidos."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['narrativa', 'musicoterapia', 'ressignificar', 'participantes', 'pessoal', 'sobre', 'vida', 'indicando', 'transformação', 'experiências'].",
+        "output": "Relação entre Música e Emoções. Descrição: A música é apresentada como um elemento que traz à tona emoções e memórias, sendo uma ferramenta poderosa para a expressão de sentimentos, especialmente em um contexto de solidão e desafios enfrentados por mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['emocional', 'saúde', 'bem', 'permitir', 'enfatizando', 'autonomia', 'outros', 'sociais', 'sugerindo', 'cuidar'].",
+        "output": "Experiência com Musicoterapia. Descrição: O grupo compartilha sua vivência com a musicoterapia, ressaltando como essa prática a ajudou e como pretende utilizá-la para auxiliar outras mulheres, evidenciando a junção da música com a terapia como uma forma de expressar sentimentos e resgatar memórias."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['emoções', 'específicas', 'pessoal', 'experiência', 'menciona', 'além', 'apresentada', 'ajudaram', 'reflexão', 'ressignificar'].",
+        "output": "Importância da Coletividade. Descrição: As participantes destacam a necessidade de um olhar mais delicado e acolhedor entre mulheres negras, enfatizando que a coletividade é fundamental para enfrentar as adversidades e fortalecer a identidade e a autoafirmação."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['ressaltando', 'conquistas', 'importância', 'compartilham', 'participantes', 'forma', 'resistência', 'enfatiza', 'enfatizada', 'única'].",
+        "output": "Importância da Comunidade. Descrição: O relato enfatiza a importância da comunidade e do apoio entre mulheres negras. A musicoterapia não é apenas uma prática individual, mas um espaço coletivo onde as participantes podem compartilhar suas histórias, fortalecer laços e criar uma rede de suporte emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['negra', 'mulher', 'social', 'menciona', 'intersecção', 'grupo', 'gênero', 'vidas', 'onde', 'opressão'].",
+        "output": "Experiências de Racismo e Preconceito. Descrição: As narrativas das participantes revelam experiências de racismo e preconceito que impactam suas vidas. Essas vivências são fundamentais para entender o contexto emocional e social em que elas estão inseridas, e como a musicoterapia pode ajudar a ressignificar essas experiências dolorosas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "A Música como Ferramenta de Cura. Descrição: A música é apresentada como uma poderosa ferramenta de cura e expressão emocional. As participantes relatam como a música as ajuda a lidar com suas dores e a encontrar um espaço seguro para se expressar, promovendo a saúde mental e emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'apoio', 'destaca', 'vivência', 'necessidade', 'negras', 'solidariedade', 'laços', 'experiências', 'suporte'].",
+        "output": "Identidade e Autoaceitação. Descrição: As participantes expressam uma busca intensa por identidade e autoconhecimento, utilizando a música como um meio de ressignificação de suas experiências e emoções. A música se torna uma ferramenta para explorar e afirmar quem são, refletindo sobre suas histórias pessoais e a luta contra a opressão."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Expressão Através da Música. Descrição: A música é apresentada como uma ferramenta terapêutica poderosa que permite às participantes acessar suas emoções e memórias. A improvisação musical é mencionada como um meio eficaz para promover um espaço seguro de vulnerabilidade e criatividade, facilitando a expressão de sentimentos e experiências."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Resistência e Transformação Social. Descrição: A discussão sobre a letra da música revela um desejo de resistência contra as injustiças sociais enfrentadas pelas mulheres negras. As participantes expressam a necessidade de transformar suas realidades e desafiar as narrativas que as silenciaram, buscando um espaço de voz e ação na sociedade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['apoio', 'social', 'contextos', 'cruciais', 'robusto', 'ativa', 'suporte', 'evidenciando', 'psicológico', 'emocional'].",
+        "output": "Apoio Mútuo e Coletividade. Descrição: As participantes destacam a relevância do apoio mútuo e da troca de experiências entre mulheres negras. Esse ambiente de solidariedade é considerado fundamental para o processo de cura e empoderamento, permitindo que cada uma compartilhe suas vivências e se sinta validada."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'grupo', 'expressão', 'forma', 'elemento', 'emocional', 'central', 'coletivo', 'mulheres', 'sessões'].",
+        "output": "Vulnerabilidade e Empoderamento. Descrição: A discussão aborda a relação entre vulnerabilidade e empoderamento, desafiando a ideia de que ser empoderada significa ser invulnerável. As participantes reconhecem que aceitar momentos de fragilidade é parte do processo de empoderamento e autodescoberta, além de ser fundamental para a saúde mental."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'sentimentos', 'essencial', 'individuais', 'serve', 'discussão', 'cala', 'apoio', 'criar', 'comunidade'].",
+        "output": "Empoderamento e Identidade Negra. Descrição: As participantes discutem a importância de reconhecer e valorizar sua identidade como mulheres negras, utilizando a música como um meio de expressão e resistência. A letra da canção 'Não Precisa Ser Amélia' é citada como um convite para que as mulheres se libertem das imposições sociais e afirmem sua força e beleza."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Experiências de Preconceito e Exclusão. Descrição: O grupo menciona como a interseccionalidade de ser mulher negra, gorda e gay a torna alvo de preconceitos, refletindo sobre as dificuldades que essas identidades trazem em sua vida social e afetiva. Essa experiência de exclusão social é um tema central que ilustra as barreiras enfrentadas por mulheres negras em suas interações."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['emocional', 'militância', 'busca', 'mental', 'desgaste', 'preocupação', 'espaços', 'questões', 'preservar', 'psicológico'].",
+        "output": "Diálogo sobre Discriminação e Interseccionalidade. Descrição: O grupo menciona a importância de um diálogo aberto sobre discriminação, refletindo sobre as complexidades das relações interraciais e a necessidade de discutir abertamente as experiências de preconceito enfrentadas pelas mulheres negras. A análise das experiências revela a interseccionalidade entre raça, gênero e classe social, destacando como essas dimensões afetam a vida das mulheres."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'feminina', 'importância', 'sociais', 'temas', 'expectativas', 'busca', 'refletem', 'si', 'questões'].",
+        "output": "Importância do Apoio Emocional e Solidariedade. Descrição: A necessidade de um suporte emocional robusto é ressaltada, evidenciando como o apoio psicológico e a escuta ativa são cruciais para o bem-estar das mulheres em contextos de vulnerabilidade social. A troca de experiências e o apoio mútuo entre as participantes são fundamentais para o processo de cura, criando uma rede de solidariedade que fortalece a experiência coletiva da musicoterapia."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Reconhecimento das Dores e Traumas. Descrição: O grupo enfatiza a importância de reconhecer as dores e traumas que as mulheres negras carregam, tanto de suas próprias histórias quanto das experiências de seus antepassados. Esse reconhecimento é fundamental para a ressignificação e fortalecimento emocional, permitindo que as participantes se sintam empoderadas ao confrontar e aceitar suas vivências."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Construção Coletiva e Identidade. Descrição: A composição musical coletiva, que envolve referências familiares e culturais, destaca a importância da identidade e da ancestralidade na formação do eu. Essa construção coletiva é um aspecto central na busca por voz e liberdade entre as mulheres negras, promovendo um espaço seguro para a expressão de suas emoções e experiências."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Liberdade e Autoaceitação. Descrição: O grupo reflete sobre a importância de não se sentir obrigada a ser forte para os outros, destacando uma mudança significativa em sua vida ao aceitar suas vulnerabilidades. Essa autoaceitação é vista como um passo crucial para a liberdade emocional e o empoderamento pessoal, permitindo que as mulheres acolham suas histórias e identidades."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'negras', 'experiências', 'reconhecimento', 'participantes', 'grupo', 'sobre', 'interseccionalidade', 'raça', 'permitindo'].",
+        "output": "Identidade e Cultura Negra. Descrição: O grupo reflete sobre sua identidade como mulher negra e a conexão com sua ancestralidade. Ela menciona a importância de se ver como 'princesa' e não apenas como 'guerreira', desafiando estereótipos e promovendo uma visão mais positiva de si mesma e de sua cultura. A música é um meio de resgatar e vivenciar essa herança cultural."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['ferramenta', 'musicoterapia', 'cura', 'apresentada', 'emoções', 'emocional', 'expressão', 'participantes', 'permitindo', 'experiências'].",
+        "output": "Ressignificação Através da Música e Arte. Descrição: A música e a arte são apresentadas como ferramentas de empoderamento e ressignificação, permitindo que as participantes lidem com suas emoções e experiências. A musicoterapia é destacada como um meio de promover saúde mental e autoexpressão, ajudando as mulheres a se conectarem com suas identidades e a transformarem experiências dolorosas em fontes de força."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['experiências', 'compartilhar', 'onde', 'fortalecimento', 'comunitário', 'dores', 'enfatizada', 'criar', 'espaços', 'troca'].",
+        "output": "Empoderamento e Vulnerabilidade. Descrição: O grupo critica a expectativa social de que mulheres negras devem ser fortes e resilientes, defendendo a importância de reconhecer e aceitar a vulnerabilidade. Ela incentiva outras mulheres a se permitirem sentir e expressar suas emoções, desafiando a norma de que devem sempre ser fortes. A vulnerabilidade é vista como uma força que contribui para o autoconhecimento e fortalecimento emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'sobre', 'negras', 'social', 'interseccionalidade', 'grupo', 'enfrentadas', 'experiências', 'vida', 'menciona'].",
+        "output": "Nome . Descrição: Descrição "
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'emocional', 'canção', 'revela', 'sociedade', 'sobre', 'especialmente', 'escolhas', 'serve', 'mulheres'].",
+        "output": "Relação com a Música e Expressão Emocional. Descrição: A música é mencionada como um meio de libertação e autoconhecimento, permitindo que O grupo se conecte com suas emoções e narrativas. Essa relação com a música é central para a proposta da musicoterapia, que busca promover a saúde emocional das participantes."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['contra', 'impacto', 'lidar', 'menciona', 'relata', 'ambientes', 'racial', 'dificuldade', 'quanto', 'situações'].",
+        "output": "A Importância da Comunidade. Descrição: O relato enfatiza a importância da comunidade e do apoio entre mulheres negras. A musicoterapia não é apenas uma prática individual, mas um espaço coletivo onde as participantes podem compartilhar suas histórias, fortalecer laços e criar uma rede de suporte emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['fortes', 'vulnerabilidade', 'mulheres', 'contribui', 'fortalecimento', 'resilientes', 'critica', 'reconhecer', 'social', 'grupo'].",
+        "output": "Ressignificação da Cultura Negra. Descrição: O projeto busca integrar a cultura e as experiências das mulheres negras nas sessões, promovendo um espaço onde suas narrativas e vivências possam ser valorizadas e ressignificadas através da música."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['parte', 'reconhecem', 'momentos', 'mental', 'jornada', 'sobre', 'conversa', 'força', 'fragilidade', 'autodescoberta'].",
+        "output": "Experiência de Comunidade e Apoio Mútuo. Descrição: O projeto promove um espaço de união entre mulheres, onde a solidariedade e o apoio mútuo são fundamentais para enfrentar estigmas e preconceitos, fortalecendo a identidade coletiva."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['grupo', 'menciona', 'importância', 'música', 'refletir', 'apresentada', 'ferramenta', 'arte', 'liberdade', 'construção'].",
+        "output": "Identidade e Autoconhecimento. Descrição: As participantes expressam uma busca intensa por identidade e autoconhecimento, utilizando a música como um meio de ressignificação de suas experiências e emoções. A música se torna uma ferramenta para explorar e afirmar quem são, refletindo sobre suas histórias pessoais e a luta contra a opressão."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['experiências', 'mulheres', 'negras', 'coletiva', 'apoio', 'espaço', 'importância', 'destaca', 'musicoterapia', 'seguro'].",
+        "output": "Empoderamento Feminino. Descrição: O projeto de musicoterapia é visto como um espaço de empoderamento para mulheres negras, onde elas podem se sentir valorizadas e ouvidas. A união entre elas é enfatizada como uma forma de resistência e transformação, desafiando as narrativas que tentam dividir as mulheres."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['fundamental', 'cura', 'processo', 'vivências', 'apoio', 'mútuo', 'experiências', 'participantes', 'negras', 'mulheres'].",
+        "output": "Ressignificação Através da Música. Descrição: A música é apresentada como uma ferramenta poderosa para cura e transformação, permitindo que as participantes explorem e expressem suas emoções e narrativas pessoais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância da Musicoterapia para Mulheres Negras. Descrição: O projeto de musicoterapia é destacado como uma atividade essencial para mulheres negras, promovendo a saúde emocional e a ressignificação de suas experiências em um contexto cultural frequentemente marginalizado."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância da Música e da Arte como Resistência. Descrição: O grupo destaca a música e a arte como formas de expressão e resistência, enfatizando a necessidade de criar espaços de acolhimento onde as vozes de todos possam ser ouvidas. Essa perspectiva ressalta o papel da cultura na luta contra desigualdades e na busca por identidade e pertencimento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Relação com a Identidade e Autoria. Descrição: A música composta pelO grupo aborda temas de identidade e autoria, refletindo a luta pessoal e coletiva das mulheres negras. A letra enfatiza a importância de se reconhecer como autora da própria história, promovendo uma mensagem de empoderamento e resistência."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['promover', 'musical', 'emocional', 'reflexão', 'emoções', 'expressão', 'participantes', 'compreensão', 'trecho', 'análise'].",
+        "output": "Conflito Interno e Saúde Mental. Descrição: O grupo expressa um profundo conflito interno sobre suas interações sociais e a pressão que sente para se posicionar em questões sociais, refletindo sobre como isso impacta sua saúde mental. Ela menciona a dificuldade de equilibrar suas emoções e a necessidade de preservar seu bem-estar em um ambiente que exige militância."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Desgaste Emocional e Saúde Mental. Descrição: O grupo menciona o desgaste emocional que sente ao lidar com questões de militância e ativismo, destacando a importância de preservar sua saúde mental em um ambiente que muitas vezes é opressivo. Essa preocupação reflete a necessidade de autocuidado e a busca por espaços que promovam o bem-estar psicológico."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Experiência em Grupos de Apoio. Descrição: A advogada compartilha sua vivência em grupos de apoio e redes de advogadas, onde se depara com questões de racismo e desigualdade de gênero, destacando a importância desses espaços para a troca de experiências e fortalecimento mútuo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['empoderamento', 'invulnerável', 'participantes', 'fortalecimento', 'expressar', 'fragilidade', 'reconhecem', 'conversa', 'fundamental', 'momentos'].",
+        "output": "Importância do Espaço e Acolhimento. Descrição: A descrição do espaço onde as sessões ocorrem e a oferta de lanches refletem a importância do ambiente físico e emocional para o processo terapêutico, ressaltando a necessidade de um espaço acolhedor que favoreça a interação e o conforto das participantes."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Empoderamento e Autoria. Descrição: A música composta pelO grupo enfatiza a temática do empoderamento e da autoria, refletindo a luta das mulheres negras por reconhecimento e espaço para suas vozes, além de promover uma mensagem de força e resiliência diante das adversidades."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'sobre', 'grupo', 'destacando', 'apresentada', 'expressão', 'autoafirmação', 'ouvida', 'sistema', 'lidar'].",
+        "output": "Importância da Música como Forma de Expressão. Descrição: O grupo enfatiza a música e a arte como formas de resistência e expressão, mencionando sua experiência em compor canções que refletem suas vivências e lutas, e a necessidade de criar espaços de acolhimento onde as vozes de todos possam ser ouvidas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Violência e Opressão. Descrição: A menção a ações como coagir, abusar e violentar reflete a realidade de opressão que muitas mulheres negras enfrentam. Esse tópico aborda as experiências de violência e a luta contra a marginalização, ressaltando a urgência de discutir e combater essas práticas na sociedade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sobre', 'sociedade', 'buscando', 'necessidade', 'espaço', 'sociais', 'injustiças', 'discussão', 'contra', 'resistência'].",
+        "output": "Coletividade e Apoio Mútuo. Descrição: A troca de experiências entre as participantes do grupo revela um ambiente de apoio e solidariedade. O grupo enfatiza a importância de compartilhar dificuldades e a luta contra o preconceito, promovendo um espaço seguro para a expressão individual e coletiva."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'transformar', 'forma', 'pode', 'positivo', 'emocional', 'menciona', 'ajudar', 'ressignificação', 'bem'].",
+        "output": "Lugar de Fala e Empoderamento. Descrição: A ideia de 'lugar de fala' é fundamental na narrativa, onde O grupo expressa a necessidade de ter um espaço para se comunicar e ser ouvida. Essa busca por empoderamento reflete a importância de dar voz a experiências que muitas vezes são silenciadas na sociedade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'cultural', 'música', 'evocam', 'resgatar', 'meio', 'conexão', 'pertencimento', 'referência', 'cultura'].",
+        "output": "Dança e Saúde Emocional. Descrição: A importância da dança é destacada como uma prática que traz alegria e alívio emocional. O grupo menciona como a dança sempre foi uma parte vital de sua vida, contribuindo para seu bem-estar e resgatando momentos de felicidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['grupo', 'música', 'conexão', 'menciona', 'apresentada', 'arte', 'terapêutico', 'expressão', 'recurso', 'elemento'].",
+        "output": "A Música como Forma de Expressão. Descrição: A música 'O Que Se Cala', de Elza Soares, é central na discussão, simbolizando a luta e a voz das mulheres negras. A letra ressoa com a vivência dO grupo, evidenciando como a música serve como um meio de expressão e libertação de sentimentos reprimidos."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Reflexão sobre Saúde Mental e Vulnerabilidade. Descrição: A conversa sobre a saúde mental destaca a aceitação da vulnerabilidade como parte do empoderamento. As participantes reconhecem que momentos de fragilidade não diminuem sua força, mas fazem parte de uma jornada de autodescoberta e crescimento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'união', 'promove', 'projeto', 'preconceitos', 'enfrentar', 'onde', 'coletiva', 'mútuo', 'mulheres'].",
+        "output": "Solidariedade e Apoio Mútuo. Descrição: As participantes enfatizam a importância do apoio mútuo e da troca de experiências entre mulheres negras. Esse ambiente de solidariedade é considerado fundamental para o processo de cura e empoderamento, permitindo que cada uma compartilhe suas vivências e se sinta validada."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'resistência', 'força', 'reconhecerem', 'amélia', 'ação', 'menção', 'precisa', 'valorizarem', 'empoderamento'].",
+        "output": "A Importância do Apoio Mútuo. Descrição: As participantes destacam a relevância do apoio mútuo entre mulheres negras, enfatizando que compartilhar experiências e validar as vivências umas das outras é fundamental para o processo de cura e fortalecimento coletivo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "A Música como Ferramenta de Conexão. Descrição: A música é apresentada como um elemento central nas sessões de musicoterapia, promovendo a conexão entre as participantes e facilitando a expressão de emoções e experiências. A improvisação musical é destacada como um espaço seguro para a vulnerabilidade e a criatividade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['grupo', 'indicando', 'experiências', 'contínua', 'realidade', 'injustiças', 'fala', 'espaços', 'especialmente', 'comunidade'].",
+        "output": "Vulnerabilidade como Força. Descrição: A conversa destaca que o empoderamento não implica em ser invulnerável, mas sim em aceitar e expressar momentos de fragilidade. As participantes reconhecem que é fundamental permitir-se ser vulnerável, o que contribui para um processo de autoconhecimento e fortalecimento emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'histórias', 'poderosa', 'canção', 'cala', 'mulheres', 'compartilhem', 'resistência', 'reprimidos', 'mencionada'].",
+        "output": "Empoderamento e Resistência. Descrição: A menção à música 'Não Precisa Ser Amélia' e a ideia de que a mulher negra deve se libertar das imposições sociais refletem um tema de empoderamento e resistência. A música é utilizada como um chamado à ação, incentivando as participantes a reconhecerem sua força e a valorizarem suas experiências."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['ideia', 'cura', 'emoções', 'emocional', 'experiências', 'coletividade', 'relevância', 'comunitária', 'aprendizado', 'apoio'].",
+        "output": "Conexão Cultural e Identidade. Descrição: A referência ao 'tambor africano batendo' e a sensação de estar em um navio ou avião evocam uma conexão profunda com a cultura africana e a identidade negra. A música é apresentada como um meio de resgatar e vivenciar essa herança cultural, promovendo um sentimento de pertencimento e identidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Reflexões sobre Saúde Mental e Autoconhecimento. Descrição: As participantes discutem suas experiências com ansiedade e a importância de reconhecer e acolher suas emoções. A musicoterapia é vista como um espaço que promove o autoconhecimento e a transformação emocional."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'identidade', 'sobre', 'luta', 'explorar', 'meio', 'experiências', 'autoconhecimento', 'refletindo', 'torna'].",
+        "output": "Relação com a Cultura Afro-Brasileira. Descrição: A referência à música 'Eu Sou Nagô' e à cultura afro-brasileira destaca a relevância da música como um veículo de expressão cultural. O grupo se identifica com a letra e a mensagem da canção, o que aponta para a importância da cultura afro na formação de sua identidade e na promoção do empoderamento feminino."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Identidade e Ancestralidade. Descrição: O grupo expressa sua conexão com suas raízes africanas ao mencionar sua descendência de Zumbi e Alphacool, destacando a importância da ancestralidade na construção de sua identidade. Essa relação com a música 'Eu Sou Nagô' reforça a valorização de sua herança cultural e a afirmação de sua identidade como mulher negra."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['cansaço', 'forte', 'grupo', 'desgastante', 'evidenciando', 'resiliência', 'emocional', 'mencionada', 'expressa', 'constante'].",
+        "output": "Experiência de Vulnerabilidade. Descrição: As participantes compartilham momentos de insegurança e medo, revelando como a vulnerabilidade se manifesta em suas vidas, especialmente em situações sociais. Essa experiência é central para a construção de um ambiente de apoio mútuo durante as sessões de musicoterapia."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['arte', 'música', 'relevância', 'transformação', 'torna', 'expressão', 'permitindo', 'conexão', 'meio', 'ferramentas'].",
+        "output": "Autoconhecimento e Saúde Mental. Descrição: As participantes refletem sobre suas jornadas de autoconhecimento e como a musicoterapia contribui para a compreensão de suas emoções e saúde mental, destacando a importância de reconhecer e acolher sentimentos individuais e coletivos."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['militância', 'causa', 'vezes', 'associado', 'expressa', 'percepção', 'menciona', 'pesada', 'estresse', 'pessoas'].",
+        "output": "Apoio Mútuo e Solidariedade. Descrição: A troca de experiências e o apoio mútuo entre as participantes são fundamentais para o processo de cura, criando uma rede de solidariedade que enriquece a vivência da musicoterapia e fortalece os laços entre elas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['negra', 'mulher', 'identidade', 'grupo', 'sobre', 'valorização', 'expressa', 'refletindo', 'percepção', 'racial'].",
+        "output": "Empoderamento e Identidade. Descrição: A discussão sobre empoderamento feminino e identidade negra é enfatizada, com as participantes reconhecendo a força e a beleza que possuem, desafiando imposições sociais e celebrando suas vivências através da música."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['luta', 'dificuldade', 'pessoais', 'dificuldades', 'vida', 'sociais', 'menciona', 'realidade', 'falta', 'onde'].",
+        "output": "Educação como Ferramenta de Transformação. Descrição: A trajetória educacional dO grupo é apresentada como um caminho de transformação pessoal e familiar. A insistência em buscar a educação, apesar das dificuldades, é vista como uma forma de empoderamento e uma maneira de quebrar ciclos de opressão e preconceito."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['sessões', 'negras', 'possam', 'valorizadas', 'através', 'onde', 'busca', 'cultura', 'experiências', 'mulheres'].",
+        "output": "Processo de Escuta Musical. Descrição: O trecho destaca a importância do processo de escuta musical nas sessões de musicoterapia, onde a análise e a reflexão sobre as músicas escolhidas permitem que as participantes explorem suas emoções e experiências. Esse método é uma ferramenta valiosa para promover a expressão e a compreensão emocional entre as mulheres."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'negras', 'prática', 'importância', 'apenas', 'criar', 'rede', 'individual', 'participantes', 'suporte'].",
+        "output": "Importância da Música como Conexão Emocional. Descrição: A música é apresentada como um elemento crucial para a expressão e alívio emocional dO grupo. Ela menciona canções que a ajudam a lidar com suas experiências de vida, destacando a conexão entre a música e a saúde mental, além de sua função como forma de resistência cultural."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Experiência de Racismo e Identidade. Descrição: O grupo menciona a relação entre suas experiências de racismo e a música, indicando como essas vivências impactam sua identidade e sua saúde mental. Essa conexão sugere a necessidade de abordar questões raciais no contexto da musicoterapia."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância da Música como Conforto. Descrição: A música é apresentada como um elemento crucial para o bem-estar emocional dO grupo, servindo como uma forma de expressão e alívio em momentos difíceis. A conexão com canções específicas ilustra como a arte pode ser um recurso terapêutico e de resistência."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Celebração de Pequenas Vitórias. Descrição: As participantes compartilham suas conquistas, como voltar à academia, ressaltando a importância de celebrar pequenas vitórias no cotidiano como forma de resistência e motivação."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Reflexão sobre Sentimentos. Descrição: As participantes refletem sobre seus sentimentos ao acordar, considerando emoções negativas como raiva e estresse, e a importância de reconhecer esses sentimentos para buscar um estado emocional mais positivo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'individuais', 'partir', 'representa', 'composição', 'compartilhadas', 'coletiva', 'músicas', 'experiências', 'expressão'].",
+        "output": "Reconhecimento e Aceitação da Depressão. Descrição: O grupo enfatiza a relevância de reconhecer e aceitar a depressão como parte da experiência humana. Ela compartilha sua própria jornada de quase entrar em depressão e a importância de buscar caminhos para reverter esse quadro, ressaltando que é possível encontrar luz e esperança mesmo em momentos difíceis."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['compartilhar', 'outras', 'coletivo', 'fortalecimento', 'enfatizando', 'única', 'emocional', 'emoções', 'empoderadas', 'empoderamento'].",
+        "output": "Apoio Social e Empatia. Descrição: O papel do apoio social e da empatia é enfatizado, com as participantes se encorajando mutuamente e compartilhando experiências que promovem a solidariedade. Essa rede de apoio é crucial para a superação de dificuldades emocionais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Desafios da Saúde Mental. Descrição: A luta contra a depressão e a busca por aceitação são temas recorrentes, evidenciando a complexidade das experiências emocionais e a necessidade de apoio social."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['evidenciando', 'musicoterapia', 'ajudou', 'grupo', 'compartilha', 'música', 'sentimentos', 'ressaltando', 'mulheres', 'resgatar'].",
+        "output": "Importância da Música e da Arte. Descrição: A música é mencionada como um elemento central nas sessões, servindo como uma forma de expressão e alívio emocional, além de promover a conexão entre as participantes."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['promover', 'força', 'temática', 'refletindo', 'empoderamento', 'enfatiza', 'composta', 'mensagem', 'reconhecimento', 'resiliência'].",
+        "output": "A Luta pela Autonomia Feminina. Descrição: O grupo enfatiza a busca por autonomia e liberdade em um contexto social que impõe expectativas sobre o papel da mulher. Ela reflete sobre a necessidade de se libertar das definições impostas pela sociedade, buscando um espaço onde possa viver de acordo com suas próprias escolhas e desejos."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['grupo', 'música', 'letra', 'experiências', 'discriminação', 'compreensão', 'raça', 'apresentada', 'expressão', 'interseccionalidade'].",
+        "output": "Criação de Espaços de Apoio. Descrição: O grupo enfatiza a importância de criar um ambiente acolhedor e bonito para as sessões, onde as participantes se sintam à vontade para se expressar. Esse espaço é fundamental para o fortalecimento das relações interpessoais e para a construção de uma rede de apoio entre as mulheres."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Expressão Emocional Através da Música. Descrição: A música é destacada como um elemento central nas sessões, onde O grupo incentiva a participação ativa das mulheres, seja cantando ou tocando instrumentos. Essa prática é vista como uma forma de colocar para fora emoções e incômodos, promovendo um espaço seguro para a expressão emocional e a harmonização coletiva."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Música como Ferramenta de Autoconhecimento. Descrição: A música é apresentada como um meio de expressão e reflexão pessoal. O grupo menciona como canções específicas a ajudaram a entender sua própria identidade além dos papéis tradicionais de esposa e mãe, permitindo-lhe explorar suas emoções e ressignificar sua experiência de vida."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['contexto', 'desvaloriza', 'transformação', 'resiliência', 'sobre', 'beleza', 'aponta', 'valorizar', 'busca', 'padrões'].",
+        "output": "Autonomia e Identidade Feminina. Descrição: As músicas escolhidas refletem temas de autonomia e a busca pela identidade feminina, abordando questões como a definição de si mesma além das expectativas sociais. A letra de 'Deus é uma Mulher Preta' ressoa com a luta pela sobrevivência e a afirmação da identidade negra."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Impacto da Educação e Reflexão. Descrição: O grupo menciona como a educação e a reflexão sobre suas experiências pessoais a ajudaram a desafiar normas sociais, promovendo um processo de autodescoberta e empoderamento."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['negras', 'adversidades', 'reconhecimento', 'resiliência', 'mulheres', 'diante', 'busca', 'desvaloriza', 'frequentemente', 'experiência'].",
+        "output": "Ressignificação de Narrativas. Descrição: A fala destaca a importância de ressignificar as narrativas preconceituosas herdadas de gerações anteriores, enfatizando a necessidade de um olhar crítico sobre as tradições e valores que moldam a identidade feminina."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'valorização', 'comunitário', 'buscam', 'criar', 'experiência', 'fala', 'sugere', 'apoio', 'redes'].",
+        "output": "Música como Espaço de Reflexão. Descrição: A música é apresentada como um espaço seguro para a expressão emocional e reflexão sobre a condição feminina. O grupo menciona como as canções escolhidas servem como catalisadores para discussões sobre identidade, solidão e a luta contra estigmas sociais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['vista', 'empoderamento', 'experiências', 'arte', 'ressignificação', 'identidades', 'ferramentas', 'mulheres', 'autoexpressão', 'conectem'].",
+        "output": "Solidariedade e Amizade entre Mulheres. Descrição: O grupo compartilha suas experiências de amizade e a falta de apoio que sentiu em momentos críticos, como a gravidez. A narrativa destaca a importância da solidariedade entre mulheres, mas também revela a ausência de suporte em sua própria vivência, sugerindo a necessidade de fortalecer laços de amizade e apoio mútuo entre mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['música', 'enfatiza', 'criar', 'refletem', 'expressão', 'arte', 'lutas', 'experiência', 'ouvidas', 'possam'].",
+        "output": "Saúde Emocional e Autonomia. Descrição: O grupo discute como as imposições sociais afetam a saúde emocional das mulheres, enfatizando a necessidade de não permitir que outros definam suas vidas. Ela destaca a importância de ser o próprio lar e de cuidar da saúde emocional, sugerindo que a autonomia é fundamental para o bem-estar."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['desigualdades', 'formas', 'pertencimento', 'contra', 'expressão', 'grupo', 'arte', 'perspectiva', 'luta', 'papel'].",
+        "output": "Ressignificação da Identidade Feminina. Descrição: A música se torna uma ferramenta para O grupo ressignificar sua identidade após o divórcio. Ela expressa que, ao ouvir músicas que falam sobre a liberdade e a autonomia feminina, começou a perceber que era mais do que apenas uma esposa ou mãe, buscando afirmar sua individualidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância do Espaço de Escuta. Descrição: O ambiente de escuta musical é considerado um espaço seguro para a expressão emocional e a partilha de experiências. As participantes são incentivadas a compartilhar suas lembranças e sentimentos relacionados às músicas, promovendo um senso de comunidade e apoio mútuo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['solidão', 'mental', 'saúde', 'sobre', 'estigmas', 'sociais', 'reflete', 'bem', 'racismo', 'mulheres'].",
+        "output": "Identidade e Autonomia Feminina. Descrição: As músicas escolhidas, especialmente 'Deus é uma Mulher Preta', abordam temas de identidade, resistência e a luta pela autonomia feminina. As participantes são convidadas a refletir sobre suas próprias experiências em relação às letras e como elas se conectam com suas vidas."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['identidade', 'luta', 'música', 'apresentada', 'sobre', 'necessidade', 'reconhecerem', 'refletindo', 'busca', 'expressar'].",
+        "output": "Mudança e ressignificação de pensamentos. Descrição: A ideia de que mudanças estão ocorrendo na vida das participantes é central na narrativa. O grupo fala sobre a necessidade de ressignificar pensamentos e experiências, indicando um processo contínuo de transformação pessoal e emocional que é apoiado pela musicoterapia."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['negras', 'mulheres', 'empoderamento', 'enfrentam', 'busca', 'temática', 'capacidade', 'central', 'relacionados', 'reflete'].",
+        "output": "Autoaceitação e Resiliência. Descrição: O grupo menciona a transformação de sua percepção sobre seu nariz, que foi associado a críticas e padrões de beleza impostos. Essa reflexão aponta para um processo de autoaceitação e resiliência, onde a mulher negra busca valorizar suas características físicas em um contexto que frequentemente desvaloriza sua identidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Interseccionalidade e Relações Raciais. Descrição: A análise das experiências dO grupo revela a interseccionalidade entre raça, gênero e classe social, destacando como essas dimensões afetam a vida das mulheres negras. A necessidade de um diálogo aberto sobre discriminação e a resistência a estereótipos são aspectos fundamentais para a compreensão das dinâmicas sociais."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['fortalecer', 'enfrentar', 'conexão', 'arteterapia', 'solidão', 'laços', 'apoio', 'enfatizada', 'recorrente', 'criar'].",
+        "output": "Importância do compartilhamento de experiências. Descrição: O ato de compartilhar informações, livros e experiências no grupo é enfatizado como essencial para o fortalecimento da comunidade. O grupo menciona a relevância de discutir temas como racismo e saúde mental, sugerindo que o grupo serve como um espaço seguro para a troca de conhecimentos e apoio mútuo."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['experiências', 'apresentadas', 'destacada', 'mental', 'força', 'fontes', 'dolorosas', 'empoderadas', 'emoções', 'emocional'].",
+        "output": "Conflitos de Identidade e Expectativas Sociais. Descrição: O grupo expressa conflitos internos sobre sua identidade e as expectativas sociais que recaem sobre ela como mulher negra. A tensão entre suas aspirações pessoais e as pressões externas é um tema recorrente, refletindo a complexidade das vivências de mulheres negras em contextos de vulnerabilidade."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['apoio', 'experiências', 'enfatizado', 'dificuldades', 'social', 'participantes', 'papel', 'superação', 'rede', 'solidariedade'].",
+        "output": "Empoderamento e Submissão. Descrição: O grupo reflete sobre a luta contra a submissão e a importância de transgredir normas impostas. A busca por liberdade de expressão e a rejeição a padrões de comportamento são centrais para a construção de uma identidade forte e autônoma."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Relação entre Música e Identidade. Descrição: A música é mencionada como uma ferramenta de ressignificação e empoderamento, permitindo que O grupo e outras mulheres negras se conectem com suas identidades. A discussão sobre a apreciação da música por pessoas brancas, apesar da discriminação, revela a intersecção entre cultura e saúde mental."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mútuo', 'questões', 'experiências', 'apoio', 'redes', 'troca', 'compartilha', 'destacando', 'racismo', 'espaços'].",
+        "output": "Diálogo sobre discriminação. Descrição: O grupo menciona a importância de um diálogo aberto sobre discriminação, refletindo sobre as complexidades das relações interraciais e a necessidade de discutir abertamente as experiências de preconceito enfrentadas pelas mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância do apoio emocional. Descrição: A necessidade de um suporte emocional robusto é ressaltada, evidenciando como o apoio psicológico e a escuta ativa são cruciais para o bem-estar das mulheres em contextos de vulnerabilidade social."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "A Importância da Autoexpressão. Descrição: A música e a arte são mencionadas como ferramentas de ressignificação e empoderamento, permitindo que O grupo e outras mulheres negras se conectem com suas identidades. Essa autoexpressão é vista como um meio de enfrentar e transformar as experiências de opressão."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Empoderamento e Autonomia. Descrição: O grupo expressa um forte desejo de viver plenamente e não apenas sobreviver, enfatizando a importância de sonhar e reivindicar seus direitos e oportunidades. Essa busca por empoderamento é central em sua narrativa, refletindo uma luta contra as imposições sociais que limitam a liberdade individual."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['grupo', 'grupo', 'racismo', 'ato', 'saúde', 'temas', 'relevância', 'serve', 'menciona', 'discutir'].",
+        "output": "Solidão da Mulher Negra. Descrição: O grupo menciona a 'solidão da mulher negra' como um fenômeno social que resulta da intersecção entre racismo e gênero. Ela reflete sobre como essa solidão é alimentada por estigmas e expectativas sociais, e como isso impacta a saúde mental e o bem-estar das mulheres negras."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Empoderamento Através da Música. Descrição: A música é apresentada como uma ferramenta de empoderamento e autoexpressão. O grupo menciona como a canção de Maíra Baldaia a ajudou a se reconhecer e a refletir sobre sua própria liberdade, enfatizando a importância da arte na construção da identidade e na superação de medos relacionados à solidão."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Importância da escuta ativa. Descrição: A prática de escutar músicas e refletir sobre os sentimentos que elas evocam é apresentada como uma forma de autoconhecimento e cura, promovendo um espaço de escuta ativa e compartilhamento de experiências entre as participantes."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['mulheres', 'participantes', 'amélia', 'utilizando', 'reconhecer', 'discutem', 'beleza', 'valorizar', 'resistência', 'letra'].",
+        "output": "Conexão com a ancestralidade. Descrição: A narrativa revela uma forte conexão com a ancestralidade, onde as experiências passadas das mulheres negras são reconhecidas e valorizadas, contribuindo para a construção de uma identidade mais forte e consciente."
+    },
+    {
+        "instruction": "Analise as palavras fornecidas e dê o nome aos tópicos, interpretando o significado principal de cada grupo de palavras considerando que se trata de uma transcrição de grupos de musicoterapia com mulheres negras.",
+        "input": "Aqui estão as palavras: ['única', 'enfrentados', 'emocionais', 'emocional', 'emoções', 'empoderadas', 'empoderamento', 'encontrar', 'enfatiza', 'enfatizada'].",
+        "output": "Ressignificação de experiências. Descrição: O processo de ressignificação é destacado como essencial para transformar experiências dolorosas em fontes de força, incentivando as participantes a não esconderem suas vulnerabilidades, mas a aceitá-las e se sentirem empoderadas diante delas."
+    }
+]

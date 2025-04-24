@@ -29,8 +29,7 @@ The primary script for executing this entire pipeline is `ai_thematic_analysis.p
 ## Prerequisites
 
 ### Environment:
-*   Python 3.x
-*   `pip` for package installation
+*   Python 3.11
 
 ### Hardware:
 *   **GPU with CUDA:** **Strongly recommended** (ideally required) for the language model fine-tuning step. Training on CPU will be extremely slow. Google Colab's free GPU tier is a viable option.

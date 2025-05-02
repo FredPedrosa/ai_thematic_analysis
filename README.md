@@ -112,7 +112,17 @@ The script will execute the following steps sequentially:
 *   **Language:** The fine-tuned model expects and generates interpretations based on the *Portuguese* instructions and keywords it was trained on. The surrounding script logic and comments are in English.
 *   **Colab:** Running this script within Google Colab (with a GPU runtime) simplifies dependency management and provides free GPU access. Remember to mount your Google Drive if saving/loading the model there.
 
-## Author and Contact
+## How to Cite
 
-Frederico Pedrosa  
-fredericopedrosa@ufmg.br
+### Citing this code:
+Pedrosa, F. G. (2024). *A Thematic Analysis powered by AI tools*. [Software]. Retrieved from https://github.com/FredPedrosa/ai_thematic_analysis/
+
+## Author
+
+*   **Prof. Dr. Frederico G. Pedrosa**
+*   fredericopedrosa@ufmg.br
+
+## License
+
+This project is licensed under a modified version of the GNU General Public License v3.0.  
+Commercial use is not permitted without explicit written permission from the author.
